@@ -9,7 +9,7 @@ arrow.lsp (Drag to the AutoCAD screen to load, or place in the AutoCAD Path (I l
     sarrow is a Spline Arrow.  It draws an arrow then uses the spline command to draw the leader.  You really need to pick a third point to get the effect... Then hit enter to complete it.<br /><br />
 
 Youtube clip explaining the program: https://youtu.be/X2Sa-EwZTn4<br />
-clevis.lsp (requires clevis-site and clevis-top blocks to be in the path, or in the drawing)<br />
+clevis.lsp (requires clevis-side and clevis-top blocks to be in the path, or in the drawing)<br />
   Program is an automation example which draws linkage with a 12" clevis on each end of a 2" pipe.<br />
   Choose the starting point (where you are pinning the clevis)<br />
   Hit enter for a side view or type "t" for a top view.<br />
